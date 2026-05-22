@@ -15,7 +15,9 @@ Built using:
 - string module
 
 
-Sample Output:
+## Sample Output
+
+```text
 Value must be between 3 and 128. Use 14 characters or more to generate a strong password.
 
 Enter length of password: 15
@@ -28,6 +30,8 @@ a-z in password: 1
 0-9 in password: 1
 !@#$%^&* in password: 1
 
-Here is your password: a0Hwc8uej$KkP%X
+Here is your password:
+a0Hwc8uej$KkP%X
 
 Generate another password? (y/n):
+```
